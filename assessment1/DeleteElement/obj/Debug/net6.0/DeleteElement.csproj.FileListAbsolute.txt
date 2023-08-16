@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\bin\Debug\net6.0\DeleteElement.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\bin\Debug\net6.0\DeleteElement.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\bin\Debug\net6.0\DeleteElement.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\bin\Debug\net6.0\DeleteElement.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\bin\Debug\net6.0\DeleteElement.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\refint\DeleteElement.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\DeleteElement.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\DeleteElement\obj\Debug\net6.0\ref\DeleteElement.dll

@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\bin\Debug\net6.0\LibraryMngSystem.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\bin\Debug\net6.0\LibraryMngSystem.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\bin\Debug\net6.0\LibraryMngSystem.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\bin\Debug\net6.0\LibraryMngSystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\bin\Debug\net6.0\LibraryMngSystem.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\refint\LibraryMngSystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\LibraryMngSystem.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\LibraryMngSystem\obj\Debug\net6.0\ref\LibraryMngSystem.dll

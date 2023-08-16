@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\bin\Debug\net6.0\ReverseString.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\bin\Debug\net6.0\ReverseString.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\bin\Debug\net6.0\ReverseString.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\bin\Debug\net6.0\ReverseString.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\refint\ReverseString.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\str1\obj\Debug\net6.0\ref\ReverseString.dll

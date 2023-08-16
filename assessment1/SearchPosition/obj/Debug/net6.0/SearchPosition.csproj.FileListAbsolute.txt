@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\bin\Debug\net6.0\SearchPosition.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\bin\Debug\net6.0\SearchPosition.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\bin\Debug\net6.0\SearchPosition.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\bin\Debug\net6.0\SearchPosition.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\bin\Debug\net6.0\SearchPosition.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\refint\SearchPosition.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\SearchPosition.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\SearchPosition\obj\Debug\net6.0\ref\SearchPosition.dll

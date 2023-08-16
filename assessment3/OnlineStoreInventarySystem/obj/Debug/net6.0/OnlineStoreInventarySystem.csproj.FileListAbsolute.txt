@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\bin\Debug\net6.0\OnlineStoreInventarySystem.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\bin\Debug\net6.0\OnlineStoreInventarySystem.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\bin\Debug\net6.0\OnlineStoreInventarySystem.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\bin\Debug\net6.0\OnlineStoreInventarySystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\bin\Debug\net6.0\OnlineStoreInventarySystem.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\refint\OnlineStoreInventarySystem.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\OnlineStoreInventarySystem.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\OnlineStoreInventarySystem\obj\Debug\net6.0\ref\OnlineStoreInventarySystem.dll

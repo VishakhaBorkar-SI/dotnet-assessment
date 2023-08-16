@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\bin\Debug\net6.0\StudentMarks.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\bin\Debug\net6.0\StudentMarks.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\bin\Debug\net6.0\StudentMarks.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\bin\Debug\net6.0\StudentMarks.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\bin\Debug\net6.0\StudentMarks.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\refint\StudentMarks.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\StudentMarks.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\StudentMarks\obj\Debug\net6.0\ref\StudentMarks.dll

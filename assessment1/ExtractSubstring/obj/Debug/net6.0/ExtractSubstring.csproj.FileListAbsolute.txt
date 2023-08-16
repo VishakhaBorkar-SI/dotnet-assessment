@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\bin\Debug\net6.0\ExtractSubstring.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\bin\Debug\net6.0\ExtractSubstring.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\bin\Debug\net6.0\ExtractSubstring.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\bin\Debug\net6.0\ExtractSubstring.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\bin\Debug\net6.0\ExtractSubstring.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\refint\ExtractSubstring.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ExtractSubstring.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ExtractSubstring\obj\Debug\net6.0\ref\ExtractSubstring.dll

@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment3\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll

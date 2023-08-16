@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\bin\Debug\net6.0\ControlStructure2.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\bin\Debug\net6.0\ControlStructure2.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\bin\Debug\net6.0\ControlStructure2.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\bin\Debug\net6.0\ControlStructure2.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\bin\Debug\net6.0\ControlStructure2.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\refint\ControlStructure2.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ControlStructure2.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment1\ControlStructure2\obj\Debug\net6.0\ref\ControlStructure2.dll

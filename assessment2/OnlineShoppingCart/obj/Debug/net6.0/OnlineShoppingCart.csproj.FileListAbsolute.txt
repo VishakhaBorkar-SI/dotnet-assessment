@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\refint\OnlineShoppingCart.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\assessment2\OnlineShoppingCart\obj\Debug\net6.0\ref\OnlineShoppingCart.dll

@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\bin\Debug\net6.0\SumofArray.exe
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\bin\Debug\net6.0\SumofArray.deps.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\bin\Debug\net6.0\SumofArray.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\bin\Debug\net6.0\SumofArray.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\bin\Debug\net6.0\SumofArray.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\refint\SumofArray.dll
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.pdb
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\SumofArray.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\dotnet assessment\SumofArray\obj\Debug\net6.0\ref\SumofArray.dll
